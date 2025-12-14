@@ -19,12 +19,6 @@ Backend & Data: PostgreSQL, DynamoDB, Redis, Celery, RabbitMQ, Microservices, We
 Tools: Git, Jira, VS Code, Postman, Linux.
 ```
 
-## 📊 GitHub Stats
-![Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api? username=diwakarrankawat&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=diwakarrankawat&theme=radical)
-
 ## 📫 How to Reach Me
 - 💼 Open to new opportunities
 - 📧 Feel free to connect with me! 
